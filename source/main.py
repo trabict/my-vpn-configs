@@ -54,7 +54,7 @@ if GITHUB_TOKEN:
 else:
     g = Github()
 
-REPO = g.get_repo(REPO_NAME)
+REPO = g.get_repo(REPO_NAME = "trabict/my-vpn-configs")
 
 # Проверка лимитов GitHub API
 try:
