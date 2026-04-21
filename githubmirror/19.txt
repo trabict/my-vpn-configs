@@ -1,4 +1,4 @@
-trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-21-Apr-2026 08:52
+trojan://bcacaab-baca-baca-dbac-accaabbcbacb@127.0.0.1:1080?security=tls&type=tcp#%F0%9F%94%84%20LATEST-UPDATE%20%F0%9F%93%85%20Tue-21-Apr-2026 12:50
 
 
 
@@ -279,7 +279,6 @@ vless://vpn_connects@clfconnect.pishipishi.pro:8880?path=%2F&amp;security=none&a
 vless://6a5d1316-c0a6-4963-8ee1-e8b9b5f98c20@ercf-ma.rainzone.site:443?path=%2F45.76.183.217%3D49292&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=delta090.qzz.io&amp;type=ws&amp;allowInsecure=0&amp;sni=delta090.qzz.io#%40Easy_Free_VPN
 vless://53ec5fd1-fa25-41ff-bd25-fc24ca8e4d24@ert-4.v-sub.site:8880?path=%2F%3Fed%3D2080&amp;security=none&amp;encryption=none&amp;host=norton-vip.cfd&amp;type=httpupgrade#%40Easy_Free_VPN
 
-vless://eb211fb7-40c8-4314-8b67-7b5f025e0f62@8.6.112.6:2083?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=kamalnet.pages.dev&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=kamalnet.pages.dev#%40V2RAY_VMESS_free
 vless://2b54293b-a8c3-4fea-97a3-7e73376af6f5@verso.nahidapp.com:443?path=%2Fvl%2F&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1&amp;echfq=none&amp;host=verso.nahidapp.com&amp;allowinsecure=0&amp;type=ws&amp;sni=verso.nahidapp.com#%40V2RAY_VMESS_free
 vless://2f15da56-03b8-4e24-9097-2e077b32dc87@verso.nahidapp.com:443?path=%2Fvl%2F&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1&amp;echfq=none&amp;host=verso.nahidapp.com&amp;allowinsecure=0&amp;type=ws&amp;sni=verso.nahidapp.com#%40V2RAY_VMESS_free
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&amp;security=&amp;encryption=none&amp;host=redfree8mahsang6.redfree8.ir&amp;type=ws# 
@@ -503,6 +502,12 @@ vless://f667f7f1-6794-4918-8aca-d3b2401ede5c@snapp.ir:80?path=%2F%3Fed%3D2080&am
 vless://d37a75db-76b6-4db8-b213-0d5b044d138d@172.64.152.100:443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=hio-awx.pages.dev&amp;type=ws&amp;allowInsecure=0&amp;sni=hio-awx.pages.dev#@UnNurmal
 vless://6fd98b96-9dd2-442c-92a4-a449cdf0fd1e@5.239.245.250:443?path=%2Fapi%2Fv1%2Fuuid%2F9e97a8c9-fdb0-4dfb-9557-2a90a554aee4&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=ef88878e-c5a7-412f-82f1-0b09c6792d29.hollowspot.ir&amp;fp=safari&amp;type=ws&amp;allowInsecure=0#@UnNurmal
 vless://68de97d5-db78-4d9d-a90a-01a5ee3c1b0d@n1.linkinfo.cloud:8080?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%40V2RAYENGLISH
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.57.33.95:56509?path=%2F&amp;security=tls&amp;encryption=none&amp;host=sni.111000.indevs.in&amp;fp=chrome&amp;type=ws&amp;sni=sni.111000.indevs.in#@UnNurmal
+vless://76598482-a74f-40cc-98e9-6e243ad85883@snapp.ir:80?path=%2Fgraphql%3Fed%3D2560&amp;security=&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=s1.limitless-cloud.ir&amp;fp=chrome&amp;type=ws&amp;sni=s1.limitless-cloud.ir#@UnNurmal
+vless://ad6e47ed-11b2-455e-8763-4e492a8b3d16@v2ngfast-v2ngfast-v2ngfast-v2ngfast.bolot91687.workers.dev:443?path=ws&amp;security=tls&amp;encryption=none&amp;host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.bolot91687.workers.dev&amp;fp=chrome&amp;type=ws&amp;sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.bolot91687.workers.dev#@UnNurmal
+vless://d56f462a-69b2-46b8-8c95-522958ddf151@loop.nilin.info:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=login.nilix.ir&amp;type=ws#@UnNurmal
+vless://3df69e7e-2010-4b2f-aa94-ebde0366c977@94.101.179.129:56658?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@UnNurmal
+vless://9b0f4d40-6e98-4cc8-a916-3a9b06c985cb@185.143.234.200:443?encryption=none&amp;security=tls&amp;type=ws&amp;headerType=none&amp;heartbeatPeriod=15&amp;path=%2Ftraffic&amp;host=traffic.aiteamplus.ir&amp;sni=traffic.aiteamplus.ir&amp;fp=edge&amp;alpn=h2%2Chttp%2F1.1#@UnNurmal
 
 vless://08b58907-305c-4413-86bd-c8855f5bac0b@best.configforvpn.fun:443?path=%2Fcdn&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=ws&amp;sni=best.configforvpn.fun#%40ConfigforVPN…
 vless://ca89921a-c01d-4a96-961e-fdeb52ed6513@root.configforvpn.fun:443?path=%2Fcdn&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=root.configforvpn.fun&amp;fp=chrome&amp;type=ws&amp;sni=root.configforvpn.fun#%40ConfigforVPN
@@ -1030,7 +1035,6 @@ ss://vpn_connects@clfconnect.pishipishi.pro:8880?path=%2F&amp;security=none&amp;
 ss://6a5d1316-c0a6-4963-8ee1-e8b9b5f98c20@ercf-ma.rainzone.site:443?path=%2F45.76.183.217%3D49292&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=delta090.qzz.io&amp;type=ws&amp;allowInsecure=0&amp;sni=delta090.qzz.io#%40Easy_Free_VPN
 ss://53ec5fd1-fa25-41ff-bd25-fc24ca8e4d24@ert-4.v-sub.site:8880?path=%2F%3Fed%3D2080&amp;security=none&amp;encryption=none&amp;host=norton-vip.cfd&amp;type=httpupgrade#%40Easy_Free_VPN
 
-ss://eb211fb7-40c8-4314-8b67-7b5f025e0f62@8.6.112.6:2083?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=kamalnet.pages.dev&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=kamalnet.pages.dev#%40V2RAY_VMESS_free
 ss://2b54293b-a8c3-4fea-97a3-7e73376af6f5@verso.nahidapp.com:443?path=%2Fvl%2F&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1&amp;echfq=none&amp;host=verso.nahidapp.com&amp;allowinsecure=0&amp;type=ws&amp;sni=verso.nahidapp.com#%40V2RAY_VMESS_free
 ss://2f15da56-03b8-4e24-9097-2e077b32dc87@verso.nahidapp.com:443?path=%2Fvl%2F&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1&amp;echfq=none&amp;host=verso.nahidapp.com&amp;allowinsecure=0&amp;type=ws&amp;sni=verso.nahidapp.com#%40V2RAY_VMESS_free
 ss://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&amp;security=&amp;encryption=none&amp;host=redfree8mahsang6.redfree8.ir&amp;type=ws# 
@@ -1321,6 +1325,12 @@ ss://d37a75db-76b6-4db8-b213-0d5b044d138d@172.64.152.100:443?path=%2F&amp;securi
 ss://eyJhZGQiOiI3OC4xMDkuMTk5LjU1IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjliZjFiMjI3LThiOTYtNDcwNS05MjllLTIzYTM2NzAzYzlhOSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTEwNzIiLCJwcyI6IkBpY3YycmF5Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 ss://6fd98b96-9dd2-442c-92a4-a449cdf0fd1e@5.239.245.250:443?path=%2Fapi%2Fv1%2Fuuid%2F9e97a8c9-fdb0-4dfb-9557-2a90a554aee4&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=ef88878e-c5a7-412f-82f1-0b09c6792d29.hollowspot.ir&amp;fp=safari&amp;type=ws&amp;allowInsecure=0#@UnNurmal
 ss://68de97d5-db78-4d9d-a90a-01a5ee3c1b0d@n1.linkinfo.cloud:8080?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%40V2RAYENGLISH
+ss://6202b230-417c-4d8e-b624-0f71afa9c75d@5.57.33.95:56509?path=%2F&amp;security=tls&amp;encryption=none&amp;host=sni.111000.indevs.in&amp;fp=chrome&amp;type=ws&amp;sni=sni.111000.indevs.in#@UnNurmal
+ss://76598482-a74f-40cc-98e9-6e243ad85883@snapp.ir:80?path=%2Fgraphql%3Fed%3D2560&amp;security=&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=s1.limitless-cloud.ir&amp;fp=chrome&amp;type=ws&amp;sni=s1.limitless-cloud.ir#@UnNurmal
+ss://ad6e47ed-11b2-455e-8763-4e492a8b3d16@v2ngfast-v2ngfast-v2ngfast-v2ngfast.bolot91687.workers.dev:443?path=ws&amp;security=tls&amp;encryption=none&amp;host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.bolot91687.workers.dev&amp;fp=chrome&amp;type=ws&amp;sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.bolot91687.workers.dev#@UnNurmal
+ss://d56f462a-69b2-46b8-8c95-522958ddf151@loop.nilin.info:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=login.nilix.ir&amp;type=ws#@UnNurmal
+ss://3df69e7e-2010-4b2f-aa94-ebde0366c977@94.101.179.129:56658?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#@UnNurmal
+ss://9b0f4d40-6e98-4cc8-a916-3a9b06c985cb@185.143.234.200:443?encryption=none&amp;security=tls&amp;type=ws&amp;headerType=none&amp;heartbeatPeriod=15&amp;path=%2Ftraffic&amp;host=traffic.aiteamplus.ir&amp;sni=traffic.aiteamplus.ir&amp;fp=edge&amp;alpn=h2%2Chttp%2F1.1#@UnNurmal
 
 ss://08b58907-305c-4413-86bd-c8855f5bac0b@best.configforvpn.fun:443?path=%2Fcdn&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=ws&amp;sni=best.configforvpn.fun#%40ConfigforVPN…
 ss://eyJhZGQiOiJiZXN0LmNvbmZpZ2ZvcnZwbi5mdW4iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImJlc3QuY29uZmlnZm9ydnBuLmZ1biIsImlkIjoiYWEzMmVmZGQtZGZiOS00N2ZlLWFjMTMtNWIyY2JjMGRjMjE1IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4ODgwIiwicHMiOiJAQ29uZmlnZm9yVlBOIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
@@ -1371,7 +1381,6 @@ trojan://humanity@172.64.152.23:443?path=%2Fassignment&amp;security=tls&amp;host
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&amp;security=tls&amp;host=www.creationlong.org&amp;type=ws&amp;sni=www.creationlong.org#%F0%9F%87%B5%F0%9F%87%B1%20%7C%E2%9A%A1%40EuServer
 trojan://humanity@v1.dabache.top:443?path=%2Fassignment&amp;security=tls&amp;host=www.multiplydose.com&amp;type=ws&amp;sni=www.multiplydose.com#%F0%9F%87%B3%F0%9F%87%B1%20%7C%E2%9A%A1%40EuServer
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&amp;security=tls&amp;fp=chrome&amp;type=ws&amp;sni=www.calmlunch.com#%F0%9F%87%AB%F0%9F%87%B7%20%7C%E2%9A%A1%40EuServer
-trojan://telegram-id-privatevpns@18.195.189.105:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)
 trojan://telegram-id-privatevpns@15.237.5.194:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
 trojan://telegram-id-privatevpns@15.188.2.109:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
 trojan://telegram-id-privatevpns@3.123.49.45:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
@@ -1391,6 +1400,7 @@ trojan://telegram-id-privatevpns@15.237.148.202:22222?security=tls&amp;alpn=http
 trojan://telegram-id-privatevpns@15.188.12.141:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S104)
 trojan://telegram-id-privatevpns@18.193.0.159:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S102)
 trojan://telegram-id-privatevpns@51.44.101.255:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S103)
+trojan://telegram-id-privatevpns@18.194.103.215:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#(S101)
 trojan://8r%3C%5B9%27l6hAO%238ZQi@172.64.149.54:2096…
 
 
